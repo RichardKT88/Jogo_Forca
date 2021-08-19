@@ -1,0 +1,8 @@
+Gato
+Cachorro
+Mesa
+Cadeira
+Banana
+Arroz
+Carro
+Moto
