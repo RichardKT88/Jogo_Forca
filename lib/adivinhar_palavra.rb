@@ -9,7 +9,7 @@ class AdivinhaPalavra
     
 
     def initialize
-        # Inicializacao.inicializando
+        Inicializacao.inicializando
         @palavra_secreta = EscolherPalavra.escolher.chomp().upcase()
         @acertou = false
         @enforcou = false 
